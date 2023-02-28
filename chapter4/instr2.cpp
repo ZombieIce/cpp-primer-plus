@@ -12,5 +12,6 @@ int main()
   cin.getline(dessert, ArSize);
   cout << "I have some delicious " << dessert;
   cout << " for you. " << name << ".\n";
+  
   return 0;
 }
